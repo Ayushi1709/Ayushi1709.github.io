@@ -18,15 +18,15 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Ayushi Tomar # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: Passionate data enthusiast seeking data analyst roles to bridge the gap between data-driven and intuition-driven decision-making. Known for producing high-quality deliverables and bringing reliability to the table. Lifelong learner committed to driving positive change.
+  
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://Ayushi1709.github.io"
 
 github:
   username: Ayushi1709 # change to your github username
